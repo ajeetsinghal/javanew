@@ -1,5 +1,5 @@
 class Simple{
 public static void main(String args[]){
-System.out.println("Welcome to AKS Cloud Learning india");
+System.out.println("Welcome to AKS Cloud Learning delhi");
 }
 }
